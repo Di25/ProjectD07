@@ -1,0 +1,61 @@
+{
+    "name": "Project D07",
+    "short_name": "D07",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#1a1a1a",
+    "theme_color": "#202020",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "assets/icons/72px.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "maskable"
+        },
+        {
+            "src": "assets/icons/96px.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "maskable"
+        },
+        {
+            "src": "assets/icons/128px.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "maskable"
+        },
+        {
+            "src": "assets/icons/144px.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/icons/152px.png",
+            "type": "image/png",
+            "sizes": "152x152",
+            "purpose": "maskable"
+        },
+    
+        {
+            "src": "assets/icons/192px.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "assets/icons/384px.png",
+            "type": "image/png",
+            "sizes": "384x384",
+            "purpose": "maskable"
+        },
+        {
+            "src": "assets/icons/512px.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+
+}
